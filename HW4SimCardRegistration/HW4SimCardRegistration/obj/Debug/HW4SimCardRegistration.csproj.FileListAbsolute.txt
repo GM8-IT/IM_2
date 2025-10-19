@@ -1,0 +1,11 @@
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\bin\Debug\HW4SimCardRegistration.exe.config
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\bin\Debug\HW4SimCardRegistration.exe
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\bin\Debug\HW4SimCardRegistration.pdb
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.csproj.AssemblyReference.cache
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.Form1.resources
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.Properties.Resources.resources
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.csproj.GenerateResource.cache
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.csproj.CoreCompileInputs.cache
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.exe
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.pdb
+D:\WinForms\HW4\HW4SimCardRegistration\HW4SimCardRegistration\obj\Debug\HW4SimCardRegistration.Form2.resources
